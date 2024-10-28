@@ -32,4 +32,10 @@
     .ads {
         display: block;
     }
+
+    .presentation p img {
+       float: left;
+       margin-right: 15px;
+    }
+        
 }
