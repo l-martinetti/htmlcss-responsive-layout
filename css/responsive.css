@@ -1,1 +1,27 @@
 /* Soluzione qui */
+@media (min-width: 768px) {
+    #topbar{
+        display: block;
+    }
+
+    main {
+        padding: 40px;
+    }
+
+    .recipe-origin {
+        display: inline;
+    }
+
+    .recipe h2 {
+        font-size: 1.9rem;
+    }
+
+    .quick-notes ul {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .quick-notes ul li {
+        padding-inline: 20px;
+    }
+}
