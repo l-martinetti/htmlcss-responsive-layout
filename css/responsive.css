@@ -25,7 +25,11 @@
         padding-inline: 20px;
     }
 
-    .btn {
-        padding-inline: 40px;
+    .btn i {
+        padding-inline: 30px;
+    }
+
+    .ads {
+        display: block;
     }
 }
